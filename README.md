@@ -52,7 +52,7 @@ end
     1. Provide new class to print sorted result in more confortable way
     2. For oter types of parsers separate parsers common functionality and
        put it in abstract class
-    3. Tests for Mixin moules
+    3. Tests for Mixin modules
     4. Use Factory to generate log files for tests
     5. Create Gemfile with appropriate gems
     6. Create Docker image
